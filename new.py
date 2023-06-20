@@ -1,3 +1,6 @@
 import pandas as pd 
 import numpy as nps
-# main
+<<<<<<< HEAD
+# main2345
+
+# dev 234
